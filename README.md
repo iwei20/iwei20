@@ -2,7 +2,6 @@
 ## ![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iwei20&count_private=true&show_icons=true&theme=dark)
 ## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwei20&layout=compact&theme=dark&count_private=true&langs_count=10)
 
-I swear I don't actually use NetLogo this much!
 <!--
 **iwei20/iwei20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
